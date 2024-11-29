@@ -8,3 +8,4 @@
 
 ### [API for data fetching](https://api.quicksell.co/v1/internal/frontend-assignment)
 
+### [Deployed Link](https://apport-assignme-git-818b49-divyansh-tripathis-projects-fe924823.vercel.app/) 
