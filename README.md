@@ -4,7 +4,7 @@
 
 ### The assignment was done using ReactJS as the major library, used vanilla CSS for styling.
 
-### Assignment Link: [Link Text](https://quicksell.notion.site/Frontend-Assignment-5288a76c8adc4214be36e488d086adc6)
+### [Assignment Link](https://quicksell.notion.site/Frontend-Assignment-5288a76c8adc4214be36e488d086adc6)
 
-### API used for data fetching: [Link Text](https://api.quicksell.co/v1/internal/frontend-assignment)
+### [API for data fetching](https://api.quicksell.co/v1/internal/frontend-assignment)
 
