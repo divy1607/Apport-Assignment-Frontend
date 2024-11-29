@@ -1,8 +1,10 @@
-# React + Vite
+# Assignment Submission Apport Solutions:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## This is an assignment given by Apport Solutions for campus placement 2025, IIT Bombay for the role of Frontend Engineer.
 
-Currently, two official plugins are available:
+### The assignment was done using ReactJS as the major library, used vanilla CSS for styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Assignment Link: [Link Text](https://quicksell.notion.site/Frontend-Assignment-5288a76c8adc4214be36e488d086adc6)
+
+### API used for data fetching: [Link Text](https://api.quicksell.co/v1/internal/frontend-assignment)
+
